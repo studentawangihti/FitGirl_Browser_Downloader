@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# Binary drivers
+chromedriver.exe
+*.exe
+
+# IDE / Editor
+.vscode/
+.idea/
